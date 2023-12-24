@@ -1,0 +1,153 @@
+[open_and_stash_stacks.1]
+Name = "Divination Cards"
+height = 100
+width = 100
+x = 770
+y = 1300
+
+[open_and_stash_stacks.2]
+Name = "Inventory"
+height = 100
+width = 100
+x = 2545
+y = 1185
+
+["chat enchant".1]
+Name = "Enchants"
+height = 345
+width = 348
+x = 675
+y = 425
+
+["Prepare Memorys".1]
+Name = "Memory"
+height = 100
+width = 100
+x = 1200
+y = 950
+
+["Prepare Memorys".2]
+Name = "Chisel"
+height = 100
+width = 100
+x = 2541
+y = 1179
+
+["Prepare Memorys".3]
+Name = "Alchemy"
+height = 100
+width = 100
+x = 2543
+y = 1285
+
+["Prepare Memorys".4]
+Name = "Scouring"
+height = 100
+width = 100
+x = 2543
+y = 1388
+
+["Magic Craft".1]
+Name = "Item"
+height = 100
+width = 100
+x = 609
+y = 937
+
+["Magic Craft".2]
+Name = "Alteration"
+height = 100
+width = 100
+x = 179
+y = 574
+
+["Magic Craft".3]
+Name = "Augmentation"
+height = 100
+width = 100
+x = 406
+y = 691
+
+["Trade in Divs".1]
+Name = "Inventar"
+height = 100
+width = 100
+x = 2595
+y = 1230
+
+["Trade in Divs".2]
+Name = "Card Trade Button"
+height = 100
+width = 100
+x = 1266
+y = 1481
+
+["Trade in Divs".3]
+Name = "Card Slot"
+height = 100
+width = 100
+x = 1265
+y = 990
+
+[Haggle.1]
+Name = "Last Inventory"
+height = 100
+width = 100
+x = 3710
+y = 1603
+
+[Haggle.2]
+Name = "Reroll"
+height = 100
+width = 100
+x = 1845
+y = 1707
+
+[Haggle.3]
+Name = "Confirm Button"
+height = 100
+width = 100
+x = 1845
+y = 2547
+
+[Haggle.4]
+Name = "Tujens Inv"
+height = 1150
+width = 1250
+x = 610
+y = 520
+
+[Haggle.5]
+Name = "Tujens First Inv Slot"
+height = 100
+width = 100
+x = 617
+y = 533
+
+[Haggle.6]
+Name = "Haggle Bar"
+height = 30
+width = 460
+x = 1489
+y = 2398
+
+[Empty_inv.1]
+Name = "Inventory"
+height = 100
+width = 100
+x = 2595
+y = 1230
+
+[Jewel_stuff.1]
+Name = "Inventory"
+height = 100
+width = 100
+x = 2595
+y = 1230
+
+[Jewel_stuff.2]
+Name = "Stash"
+height = 100
+width = 100
+x = 85
+y = 315
