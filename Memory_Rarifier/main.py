@@ -407,6 +407,11 @@ class craft():
             print(key)
             #if self.click_border_reverse(key):
             #    break
+        with ThreadPoolExecutor(max_workers=num_threads) as executor:
+                        results = executor.map(self.process_traded_symbol, traded_symbols, repeat(session), repeat(api_key), repeat(secret_key), repeat(base_url), repeat(fetch_date))
+                        for result in results:
+                            for r in result:
+                                g_order_history.append(r)
         with Manager() as manager:
             click_pos = manager.dict()
             processes = []
